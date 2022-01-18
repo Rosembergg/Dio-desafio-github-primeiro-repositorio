@@ -1,0 +1,14 @@
+Comandos GIT
+
+Listar: DIR Windows  / LS Linux
+Navegar dentro das pastas: CD Linux e Windows e o nome da pasta para voltar as pastas CD .. 
+Limpar a tela: CLS Windows clear Linux ctrl + L limpa no Linux
+Criar pastas: MKDIR nome da pasta Linux e Windows 
+Para criar pastas basta digitar echo oque vai conter dentro do arquivo e > nome do arquivo . tipo do arquivo exemplo (Echo hello > hello.txt ).
+Del nome: server para deletar arquivos e não diretórios Windows
+RMDIR /s /q: serve para excluir repositórios como pastas e não arquivos 
+Chave ssh forma de estabelecer uma conexão segura e encriptada entre duas maquinas no caso configurar nossa maquina para acessar o servidor do GITHUB
+Sempre vai ter uma púbica e uma privada 
+Cat: ver o conteúdo 
+Ambiente de dev: Working directroy - Stagin área – local repositor
+Servidor: Remote repositor
