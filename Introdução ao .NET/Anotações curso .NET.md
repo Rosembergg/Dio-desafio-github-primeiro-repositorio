@@ -4,7 +4,7 @@ Para ter um bom código ele tem que ser confiável, sustentável e ser eficiente
 Eficiência e desempenho devem vir em primeiro lugar só quando for um requisito da aplicação, quando não for ela deve ser o mais simples possível
 Porque devemos e como padronizar um código?
 Melhor comunicação na equipe, facilita na manutenção dos códigos, utilizar documentações e ter boas práticas de codificação como o clean code
-## Entender o Clean Code
+### Entender o Clean Code
 Clean code e um conjunto de boas práticas na escrita de software para obter maior legibilidade e manutenibilidade de código
 Regras Gerais
 * Siga sempre as convenções adotadas pela equipe
@@ -26,6 +26,5 @@ Regras para entender o código
 * Evite que funções altere valores de outra classe sem ser da própria classe
 * Evite flags desnecessárias 
 
-### Convenção de nomenclatura
-Linguaguens suportadas pelo .net:
-C# , F# , Visual basic
+#### Linguaguens suportadas pelo .net
+* C# , F# , Visual basic
