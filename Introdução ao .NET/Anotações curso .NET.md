@@ -38,10 +38,10 @@ Ele processa os comandos que serão enviados para um programa de computador em f
  ## O que é?
 E uma Infraestrutura para desenvolvimento de software criada pela Microsoft
 Aplicações em .NET ela e desenvolvida para rodar nas seguintes implementações:
-*.NET core
-*.NET Framework
-*MONO
-*UWP
+* .NET core
+* .NET Framework
+* MONO
+* UWP
 
 ## Como?
 Todas elas se “unem” com o  .NET Standard que e uma biblioteca que une as implementações e cada implementação tem sua Runtime:
