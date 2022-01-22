@@ -33,9 +33,6 @@ C# , F# , Visual basic
 RunTime e meio que um compilador que pega oque foi escrito pela pessoa e transforma em uma linguagem que o computador possa entender.
 CLI = Comand Line Interface (Famoso CMD do Windows)
 Ele processa os comandos que serão enviados para um programa de computador em forma de texto
-# RunTime
-RunTime e meio que um compilador que pega oque foi escrito pela pessoa e transforma em uma linguagem que o computador possa entender.
-CLI = Comand Line Interface (Famoso CMD do Windows)
-Ele processa os comandos que serão enviados para um programa de computador em forma de texto
+
 
 
