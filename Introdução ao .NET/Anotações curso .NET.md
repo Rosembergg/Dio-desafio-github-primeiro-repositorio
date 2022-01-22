@@ -34,5 +34,38 @@ RunTime e meio que um compilador que pega oque foi escrito pela pessoa e transfo
 CLI = Comand Line Interface (Famoso CMD do Windows)
 Ele processa os comandos que serão enviados para um programa de computador em forma de texto
 
+# Primeiros passos com .net
+ ## O que é?
+E uma Infraestrutura para desenvolvimento de software criada pela Microsoft
+Aplicações em .NET ela e desenvolvida para rodar nas seguintes implementações:
+*.NET core
+*.NET Framework
+*MONO
+*UWP
+
+## Como?
+Todas elas se “unem” com o  .NET Standard que e uma biblioteca que une as implementações e cada implementação tem sua Runtime:
+* .NET core: CoreCLR e CoreRT
+* .NET Framework: CLR
+* MONO(Xamari): MONO Runtime
+* UWP: .NET native
+E as linguagens que a Microsoft suporta são: 
+* C#
+* F#
+* VB
+## Onde usar?
+* Desktop (WPF e UWP)
+* Web (ASP .NET)
+* Cloud (Azure)
+* Mobile (Xamari)
+* Gaming (Unity)
+* IoT (ARM)
+* AI (ML . NET, .NET for Apache Spark)
+Tudo isso com o .NET 5, usando as ferramentas:
+* VS (Visual Studio)
+* VS for Mac
+* VS Code
+* CMD
+
 
 
