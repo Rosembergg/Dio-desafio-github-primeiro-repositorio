@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\aiko\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\aiko\\.nuget\\packages"
-    ]
-  }
-}
