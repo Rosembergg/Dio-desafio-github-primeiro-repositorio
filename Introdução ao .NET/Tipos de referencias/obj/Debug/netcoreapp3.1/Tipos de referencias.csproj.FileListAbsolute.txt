@@ -1,0 +1,13 @@
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Tipos de referencias\bin\Debug\netcoreapp3.1\Tipos de referencias.exe
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Tipos de referencias\bin\Debug\netcoreapp3.1\Tipos de referencias.deps.json
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Tipos de referencias\bin\Debug\netcoreapp3.1\Tipos de referencias.runtimeconfig.json
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Tipos de referencias\bin\Debug\netcoreapp3.1\Tipos de referencias.runtimeconfig.dev.json
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Tipos de referencias\bin\Debug\netcoreapp3.1\Tipos de referencias.dll
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Tipos de referencias\bin\Debug\netcoreapp3.1\Tipos de referencias.pdb
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Tipos de referencias\obj\Debug\netcoreapp3.1\Tipos de referencias.csprojAssemblyReference.cache
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Tipos de referencias\obj\Debug\netcoreapp3.1\Tipos de referencias.AssemblyInfoInputs.cache
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Tipos de referencias\obj\Debug\netcoreapp3.1\Tipos de referencias.AssemblyInfo.cs
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Tipos de referencias\obj\Debug\netcoreapp3.1\Tipos de referencias.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Tipos de referencias\obj\Debug\netcoreapp3.1\Tipos de referencias.dll
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Tipos de referencias\obj\Debug\netcoreapp3.1\Tipos de referencias.pdb
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Tipos de referencias\obj\Debug\netcoreapp3.1\Tipos de referencias.genruntimeconfig.cache
