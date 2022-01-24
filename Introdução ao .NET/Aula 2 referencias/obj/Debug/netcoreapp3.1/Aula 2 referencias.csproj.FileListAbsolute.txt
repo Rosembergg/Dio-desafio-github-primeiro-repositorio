@@ -1,0 +1,13 @@
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Aula 2 referencias\obj\Debug\netcoreapp3.1\Aula 2 referencias.csprojAssemblyReference.cache
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Aula 2 referencias\obj\Debug\netcoreapp3.1\Aula 2 referencias.AssemblyInfoInputs.cache
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Aula 2 referencias\obj\Debug\netcoreapp3.1\Aula 2 referencias.AssemblyInfo.cs
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Aula 2 referencias\obj\Debug\netcoreapp3.1\Aula 2 referencias.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Aula 2 referencias\bin\Debug\netcoreapp3.1\Aula 2 referencias.exe
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Aula 2 referencias\bin\Debug\netcoreapp3.1\Aula 2 referencias.deps.json
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Aula 2 referencias\bin\Debug\netcoreapp3.1\Aula 2 referencias.runtimeconfig.json
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Aula 2 referencias\bin\Debug\netcoreapp3.1\Aula 2 referencias.runtimeconfig.dev.json
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Aula 2 referencias\bin\Debug\netcoreapp3.1\Aula 2 referencias.dll
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Aula 2 referencias\bin\Debug\netcoreapp3.1\Aula 2 referencias.pdb
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Aula 2 referencias\obj\Debug\netcoreapp3.1\Aula 2 referencias.dll
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Aula 2 referencias\obj\Debug\netcoreapp3.1\Aula 2 referencias.pdb
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Aula 2 referencias\obj\Debug\netcoreapp3.1\Aula 2 referencias.genruntimeconfig.cache
